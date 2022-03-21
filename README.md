@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliasqayumi
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently senior developer in java 
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me elyasqayumi@gmail.com
 
